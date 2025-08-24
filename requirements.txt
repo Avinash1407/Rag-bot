@@ -1,0 +1,9 @@
+langchain-google-genai
+# ChatGoogleGenerativeAI
+pypdf
+langchain_community
+fastapi
+chromadb
+uvicorn
+python-dotenv
+pdfplumber
